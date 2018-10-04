@@ -11,4 +11,5 @@ int main()
     cin>>godini;
     cout<<"I az sum na "<<godini<<"!"<<endl;
     return 0;
+    //Dobar dialog
 }
